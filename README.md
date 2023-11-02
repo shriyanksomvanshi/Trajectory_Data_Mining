@@ -111,6 +111,7 @@ Introduces techniques needed before starting a mining task on a trajectory, incl
   - Conversion: From a series of time-stamped spatial points to a sequence of meaningful places.
 
   ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/9265218b-a09c-4082-86ad-794c4dfa9b90)
+  
   `Figure 2: Stay points in a trajectory`
 - Applications:
   - Travel recommendations, destination predictions, taxi recommendations, etc.
@@ -135,6 +136,7 @@ Introduces techniques needed before starting a mining task on a trajectory, incl
     - Perpendicular Euclidean Distance
     - Time Synchronized Euclidean Distance
    ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/03caa941-da51-4751-a274-5c9b14dbf497)
+
    `Figure 3: Distance metric measuring the compression error`
 
  **2. Offline Compression**
@@ -145,6 +147,7 @@ Introduces techniques needed before starting a mining task on a trajectory, incl
     - Bellman’s algorithm
     
  ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/287589c9-74e4-4e08-9bad-395f2affaf99)
+ 
 `Figure 4: Illustration of Douglas-Peucker algorithm`
 
  **3. Online Data Reduction**
@@ -163,6 +166,7 @@ Introduces techniques needed before starting a mining task on a trajectory, incl
 Trajectory segmentation is the process of dividing a trajectory into smaller segments for various purposes, such as clustering, classification, and pattern mining. This segmentation can simplify computational tasks and reveal more detailed patterns than analyzing the entire trajectory.
 
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/0093f01c-23f9-4f3c-a7c3-828017d18dab)
+
 `Figure 5: Methods of trajectory segmentation`
 
 *Types of Segmentation Methods:*
@@ -298,6 +302,7 @@ Two Major Types of Queries:
   - Some models use probability density functions or stochastic processes like Markov chains for uncertainty.
 
   ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/3c719a9a-56e5-4000-bb76-33ff69c6b74e)
+  
   `Figure 6: Examples of uncertain trajectories`
 
 ##### *Path Inference from Uncertain Trajectories*
@@ -326,6 +331,7 @@ Two Major Types of Queries:
   - Routing algorithms can then find the most likely route given certain query points.
 
   ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/ec9e9c50-0963-487e-b94d-5096159e8693)
+  
 `Figure 7: The most-likely route based on uncertain trajectories`
 
 ##### Anchor-based Calibration System
@@ -371,6 +377,7 @@ Two Major Types of Queries:
 - Christian et al. considered factors like direction and speed.
 
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/a0e0a832-0a54-47cf-b765-72fb94eabfbc)
+
 `Figure 8: Examples of moving together patterns`
 
 ### 2. Trajectory Clustering
@@ -389,6 +396,7 @@ Two Major Types of Queries:
   - Uses a Micro-and-Macro-clustering framework.
 
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/5bfbe44d-b7ca-4fda-9d4b-c0b40f934668)
+
 `Figure 9: Trajectory clustering based on partial segments`
 
 
@@ -458,6 +466,7 @@ Two Major Types of Queries:
 
 - Figure 10 illustrates sequential pattern mining in trajectory data, demonstrating techniques and transformations.
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/6803491e-78e0-4027-9be3-d729c53d927a)
+
 `Figure 10: Sequential pattern mining in trajectory data`
 
 ## *Trajectory Classification*
@@ -472,6 +481,7 @@ Two Major Types of Queries:
 3. **Model Building**: Use sequence inference models like Dynamic Bayesian Network (DBN), Hidden Markov Model (HMM), and Conditional Random Field (CRF) to classify each segment or point.
 
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/fcd7e632-57c5-44ec-b65a-b0c1435c136c)
+
 `Figure 11: Trajectory classification for activity recognition`
 
 ## *Anomalies Detection from Trajectories*
@@ -531,6 +541,7 @@ Two Major Types of Queries:
     - Used to detect road network problems, traffic anomalies, and urban functional areas.
 
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/538db14c-1d68-4020-aceb-e23b7a4ab083)
+
 `Figure 12: Transforming trajectories into graphs`
 
 ### In Free Spaces:
@@ -572,6 +583,7 @@ Two Major Types of Queries:
   - The recommendation is improved using context matrices of location features and activity relations.
 
   ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/d299eae6-3395-491c-a765-282028d1cbec)
+  
   `Figure 13: Matrix factorization for recommendation`
 
 ### Traffic Condition Estimation
@@ -624,6 +636,7 @@ Two Major Types of Queries:
   - Tensor decomposition fills gaps in the tensor.
 
 ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/fe61c9a0-81d4-4349-b6df-284ed8df952f)
+
 `Figure 14: Estimate the refueling behavior in a gas station`
 
 
