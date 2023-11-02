@@ -21,8 +21,10 @@
 7. [Anomalies Detection from Trajectories](#anomalies-detection-from-trajectories)
 
 8. [Transfer of Trajectories to Other Representations](#transfer-of-trajectories-to-other-representations)
+   
+9. [Few Publicly available Trajectory Datasets](#Few-Publicly-available-Trajectory-Datasets)
 
-9. [Potential Future Direction](#potential-future-direction)
+10. [Potential Future Direction](#potential-future-direction)
 
 
 ### Introduction
