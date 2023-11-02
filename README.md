@@ -8,9 +8,9 @@
 ## Table of Contents
 1. [Introduction](###Introduction)
    
-2. [Trajectory Data](##TRAJECTORYDATA)
+2. [Trajectory Data](##Trajectory-Data)
 
-3. [Trajectory Data Preprocessing Steps](##*Trajectory-Data-Preprocessing-Steps:*)
+3. [*Trajectory Data Preprocessing Steps:*](##*Trajectory-Data-Preprocessing-Steps:*)
 
 4. [Trajectory Data Management Summary](##*Trajectory-Data-Management-Summary:*)
  
@@ -26,7 +26,7 @@
 
 ### Introduction
 
-The growth in location-acquisition and mobile computing has produced vast spatial trajectory data. This data represents the movement of various objects like humans, animals, and vehicles.
+The growth in location acquisition and mobile computing has produced vast spatial trajectory data. This data represents the movement of various objects like humans, animals, and vehicles.
 Trajectory data mining has become vital due to its applications in fields such as social networks, transportation systems, and urban computing.
 
 ### Trajectory Data Derivation and Applications
