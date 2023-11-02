@@ -6,26 +6,6 @@
 # A Repo on Trajectory Data Mining
 
 ## Table of Contents
-1. [Introduction](###Introduction)
-   
-2. [Trajectory Data](##Trajectory-Data)
-
-3. [Trajectory Data Preprocessing Steps](##Trajectory-Data-Preprocessing-Steps:)
-
-4. [Trajectory Data Management Summary](##*Trajectory-Data-Management-Summary:*)
- 
-5. [Trajectory Pattern Mining](##*TrajectoryPatternMining*)
-
-6. [Trajectory Classification](##*TrajectoryClassification*)
-
-7. [Anomalies Detection from Trajectories](##*AnomaliesDetectionfromTrajectories*)
-
-8. [Transfer of Trajectories to Other Representations](##*TransferofTrajectoriestoOtherRepresentations*)
-
-9. [Potential Future Direction](##*PotentialFutureDirection*)
-
-..
-## Table of Contents
 1. [Introduction](#introduction)
    
 2. [Trajectory Data](#trajectory-data)
