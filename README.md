@@ -10,7 +10,7 @@
    
 2. [Trajectory Data](##Trajectory-Data)
 
-3. [*Trajectory Data Preprocessing Steps:*](##*Trajectory-Data-Preprocessing-Steps:*)
+3. [Trajectory Data Preprocessing Steps](##Trajectory-Data-Preprocessing-Steps:)
 
 4. [Trajectory Data Management Summary](##*Trajectory-Data-Management-Summary:*)
  
