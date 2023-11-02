@@ -24,6 +24,27 @@
 
 9. [Potential Future Direction](##*PotentialFutureDirection*)
 
+..
+## Table of Contents
+1. [Introduction](#introduction)
+   
+2. [Trajectory Data](#trajectory-data)
+
+3. [Trajectory Data Preprocessing Steps](#trajectory-data-preprocessing-steps)
+
+4. [Trajectory Data Management Summary](#trajectory-data-management-summary)
+ 
+5. [Trajectory Pattern Mining](#trajectory-pattern-mining)
+
+6. [Trajectory Classification](#trajectory-classification)
+
+7. [Anomalies Detection from Trajectories](#anomalies-detection-from-trajectories)
+
+8. [Transfer of Trajectories to Other Representations](#transfer-of-trajectories-to-other-representations)
+
+9. [Potential Future Direction](#potential-future-direction)
+
+
 ### Introduction
 
 The growth in location acquisition and mobile computing has produced vast spatial trajectory data. This data represents the movement of various objects like humans, animals, and vehicles.
