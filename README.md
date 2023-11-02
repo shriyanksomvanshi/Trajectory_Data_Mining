@@ -90,6 +90,7 @@ Introduces techniques needed before starting a mining task on a trajectory, incl
   - Large deviations need to be filtered before mining.
 
   ![image](https://github.com/shriyanksomvanshi/TemporalMissingImputation/assets/143463033/2a1ee513-81b7-43e7-a246-c1f59ab04138)
+  
 `Figure 1: Noise points in a trajectory`
 
 - Existing methods for filtering:
